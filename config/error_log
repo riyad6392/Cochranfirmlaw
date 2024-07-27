@@ -1,0 +1,16 @@
+[11-Mar-2024 11:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mainlawsite/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mainlawsite/public_html/config/cache.php on line 18
+[11-Mar-2024 11:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mainlawsite/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mainlawsite/public_html/config/cache.php on line 18
+[02-Apr-2024 18:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mainlawsite/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mainlawsite/public_html/config/cache.php on line 18
+[02-Apr-2024 18:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mainlawsite/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mainlawsite/public_html/config/cache.php on line 18
